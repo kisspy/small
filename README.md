@@ -1,2 +1,2 @@
-# xmall
+# small
 a simple python shopping mall
